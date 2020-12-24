@@ -1,0 +1,5 @@
+Left click once on the python file 
+Right click after the file is selected 
+Edit the file as a python
+Click F5 to run the program
+Follow the instructions on the program
