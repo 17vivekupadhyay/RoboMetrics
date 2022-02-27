@@ -4,3 +4,7 @@ time
 requests
 pandas
 panda
+numpy
+statistics
+matplotlib
+urllib
